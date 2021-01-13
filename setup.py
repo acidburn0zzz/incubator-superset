@@ -47,7 +47,7 @@ setup(
         'boto3>=1.4.6',
         'celery==4.1.0',
         'colorama==0.3.9',
-        'cryptography==1.9',
+        'cryptography==3.2',
         'flask==0.12.2',
         'flask-appbuilder==1.9.4',
         'flask-cache==0.13.1',
