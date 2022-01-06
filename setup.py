@@ -45,7 +45,7 @@ setup(
     scripts=['superset/bin/superset'],
     install_requires=[
         'boto3>=1.4.6',
-        'celery==4.1.0',
+        'celery==5.2.2',
         'colorama==0.3.9',
         'cryptography==1.9',
         'flask==0.12.2',
