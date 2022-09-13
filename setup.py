@@ -56,7 +56,7 @@ setup(
         'flask-sqlalchemy==2.1',
         'flask-testing==0.6.2',
         'flask-wtf==0.14.2',
-        'flower==0.9.1',
+        'flower==1.2.0',
         'future>=0.16.0, <0.17',
         'humanize==0.5.1',
         'gunicorn==19.7.1',
