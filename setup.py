@@ -69,7 +69,7 @@ setup(
         'PyHive>=0.4.0',
         'python-dateutil==2.6.0',
         'pyyaml>=3.11',
-        'requests==2.17.3',
+        'requests==2.31.0',
         'simplejson==3.10.0',
         'six==1.10.0',
         'sqlalchemy==1.1.9',
