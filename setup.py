@@ -48,7 +48,7 @@ setup(
         'celery==4.1.0',
         'colorama==0.3.9',
         'cryptography==1.9',
-        'flask==0.12.2',
+        'flask==2.2.5',
         'flask-appbuilder==1.9.4',
         'flask-cache==0.13.1',
         'flask-migrate==2.0.3',
