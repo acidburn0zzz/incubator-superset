@@ -59,7 +59,7 @@ setup(
         'flower==0.9.1',
         'future>=0.16.0, <0.17',
         'humanize==0.5.1',
-        'gunicorn==19.7.1',
+        'gunicorn==22.0.0',
         'idna==2.5',
         'markdown==2.6.8',
         'pandas==0.20.3',
